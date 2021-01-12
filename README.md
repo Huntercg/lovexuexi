@@ -211,7 +211,3 @@ V2.26.0.2解决办法，点击“我的”，然后退回主界面，就能正�
 > [**studyhelperhelper**](https://github.com/studyhelperhelper/studyhelper)
 >
 > [**lolisaikou**](https://github.com/lolisaikou)
-
-
-
-[]: https://github.com/james-bond-007/lovexuexi/issues/26]的问题。
